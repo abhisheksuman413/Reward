@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
 
-// Fetch rewards for a specific user ID
+        // Fetch rewards
         fetchRewards()
 
 
